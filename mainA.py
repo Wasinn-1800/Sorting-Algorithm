@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Dec 17 19:35:32 2024
+Created on Wed Mar 19 20:40:28 2025
 
-@author: Wasinn_1800
+@author: Wasinn-1800
 """
 
 import time
