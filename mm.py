@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Dec 17 21:09:15 2024
+Created on Tue Mar 18 22:14:46 2025
 
-@author: Wasinn_1800
+@author: Wasinn-1800
 """
 
 import re
